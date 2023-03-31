@@ -1,5 +1,4 @@
-# tedxtum-profile-overlay
-Profile Overlay for TEDxTUM
+# Static site page for miscellaneous tools for Protect our Province BC
+Profile Overlay for Covid Awareness Week
 
-* See an example [here](examples.dora.rocks/overlay/)
-* Read the tutorial [here](https://medium.com/part-time-optimism/make-your-own-profile-picture-overlay-b532f0877b92#.az6oid855)
+* Based on [here](https://medium.com/part-time-optimism/make-your-own-profile-picture-overlay-b532f0877b92#.az6oid855)
